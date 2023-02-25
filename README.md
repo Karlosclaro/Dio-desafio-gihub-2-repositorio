@@ -1,4 +1,4 @@
-# Repositorio do desafio da Dio, Github
+# Repositorio do desafio de projeto da Dio, Github
 Desafio de projeto sobre git-hub
 Aqui usa arquivos md (markdonw)
 Link úteis:
